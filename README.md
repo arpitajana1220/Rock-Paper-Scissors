@@ -4,6 +4,13 @@
 Welcome to the Rock Paper Scissors game! This repository contains a simple implementation of the classic game using HTML, CSS, and JavaScript.
 
 **How to Play:**
+<br>
+Click on this link:
+https://arpitajana1220.github.io/Rock-Paper-Scissors/
+<br>
+<br>OR<br>
+<br>
+Follow these steps:
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in your web browser.
 3. Choose Rock, Paper, or Scissors by clicking on the corresponding button.
